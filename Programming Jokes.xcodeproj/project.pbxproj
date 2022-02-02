@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F101BF227AAEB650028FC93 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F101BF127AAEB640028FC93 /* SwiftyJSON.swift */; };
 		3F19302727A99827003EF653 /* Programming_JokesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F19302627A99827003EF653 /* Programming_JokesApp.swift */; };
 		3F19302927A99827003EF653 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F19302827A99827003EF653 /* ContentView.swift */; };
 		3F19302B27A9982C003EF653 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F19302A27A9982C003EF653 /* Assets.xcassets */; };
@@ -33,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3F101BF127AAEB640028FC93 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 		3F19302327A99827003EF653 /* Programming Jokes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Programming Jokes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F19302627A99827003EF653 /* Programming_JokesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Programming_JokesApp.swift; sourceTree = "<group>"; };
 		3F19302827A99827003EF653 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 				3F19302827A99827003EF653 /* ContentView.swift */,
 				3F19302A27A9982C003EF653 /* Assets.xcassets */,
 				3F19302F27A9982C003EF653 /* Info.plist */,
+				3F101BF127AAEB640028FC93 /* SwiftyJSON.swift */,
 				3F19302C27A9982C003EF653 /* Preview Content */,
 			);
 			path = "Programming Jokes";
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F101BF227AAEB650028FC93 /* SwiftyJSON.swift in Sources */,
 				3F19302927A99827003EF653 /* ContentView.swift in Sources */,
 				3F19302727A99827003EF653 /* Programming_JokesApp.swift in Sources */,
 			);
